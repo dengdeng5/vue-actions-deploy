@@ -4,6 +4,7 @@
   "private": true,
   "sss": "",
   "homepage":"https://[panshihao].github.io/[vue-actions-deploy]",
+  
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
